@@ -1,0 +1,13 @@
+Question,Syntax
+Hi,Hi there!
+How are you?,I am good
+Syntax for AWS extraction Glue Job,"{
+ src_app-cd: 'your input',
+ ext_path: 'your input',
+ env: 'dev/tst/prd'
+}"
+Syntax for AWS transfer Glue Job,"{
+ src_app-cd: 'your input',
+ trns_path: 'your input',
+ env: 'dev/tst/prd'
+}"

@@ -1,0 +1,6 @@
+openai
+langchain
+streamlit
+sentence-transformers
+numpy
+pandas
